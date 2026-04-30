@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Amna! 
+I am a   SoftwareEngineering  student passionate about software development . I enjoy solving complex problems through code  software interact.
 
-<!--
-**amnamirzaa9/amnamirzaa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Current Focus
+Object-Oriented Programming: Currently deepening my knowledge of Java and Object-Oriented Design.
 
-Here are some ideas to get you started:
+Computer Architecture: Studying ARM architecture, bus bandwidth, and the fundamentals of computer organization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discrete Mathematics: Applying logic principles, counting, and set theory to computational problems.
+
+ Technical Skills
+Languages: Java, C++, and Discrete Mathematics logic.
+
+Tools: NetBeans (Java Development) .
+
+Core Concepts: Inheritance, Polymorphism, Encapsulation, .
+
+ Featured Academic Projects
+Hospital Management System : A C++ application focused on managing patient records and hospital data using fundamental programming principles.
+RPG battle game: A collaborative Java RPG engine exploring Object-Oriented Design, character inheritance, and dynamic battle mechanics.
+
+
+ Reach Out
+GitHub: github.com/amnamirzaa9
