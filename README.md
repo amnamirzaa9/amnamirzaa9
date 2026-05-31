@@ -9,6 +9,7 @@ Languages: Java, C++, and Discrete Mathematics logic.
 
  Featured Academic Projects
 Hospital Management System : A C++ application focused on managing patient records and hospital data using fundamental programming principles.
+
 RPG battle game: A collaborative Java RPG engine exploring Object-Oriented Design, character inheritance, and dynamic battle mechanics.
 
  Reach Out
