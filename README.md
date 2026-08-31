@@ -120,12 +120,12 @@ Built in the first semester as a systems programming project using core C++ prin
 
 ---
 
-## GitHub stats
+## GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amnamirzaa9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnamirzaa9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9" height="160"/>
+[![GitHub followers](https://img.shields.io/github/followers/amnamirzaa9?style=for-the-badge&color=7F77DD&labelColor=0d1117)](https://github.com/amnamirzaa9)
+[![GitHub stars](https://img.shields.io/github/stars/amnamirzaa9?style=for-the-badge&color=1D9E75&labelColor=0d1117)](https://github.com/amnamirzaa9)
 
 </div>
 
