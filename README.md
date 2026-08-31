@@ -120,14 +120,27 @@ Built in the first semester as a systems programming project using core C++ prin
 
 ---
 
-## GitHub activity
+## Currently learning & building
 
-<div align="center">
+I'm actively moving into **AI application development** — building on my backend foundation to work with real-world AI systems.
 
-[![GitHub followers](https://img.shields.io/github/followers/amnamirzaa9?style=for-the-badge&color=7F77DD&labelColor=0d1117)](https://github.com/amnamirzaa9)
-[![GitHub stars](https://img.shields.io/github/stars/amnamirzaa9?style=for-the-badge&color=1D9E75&labelColor=0d1117)](https://github.com/amnamirzaa9)
+**Focus areas:**
 
-</div>
+- 🤖 **Conversational AI** — designing and deploying chatbots with contextual memory and multi-turn dialogue
+- 🗂️ **RAG (Retrieval-Augmented Generation)** — building pipelines that ground LLM responses in custom knowledge bases using vector search
+- 🧠 **LLM Integration** — working with APIs (OpenAI, Anthropic) and orchestration tools like LangChain to build production-ready AI features
+- 📦 **AI-powered backends** — extending my Node.js/Express skills to serve AI features via clean REST APIs
+
+> Currently adding an AI chatbot assistant to VelourScents as my first end-to-end AI feature in a live product.
+
+**Currently working on**
+
+| Area | Status |
+|---|---|
+| AI chatbot for VelourScents | 🔄 In progress |
+| RAG application (personal knowledge base) | 📋 Planning |
+| DSA semester — algorithmic problem solving | 🔄 In progress |
+| LangChain + vector DB fundamentals | 📖 Learning |
 
 ---
 
@@ -145,4 +158,3 @@ Built in the first semester as a systems programming project using core C++ prin
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&section=footer" width="100%"/>
 </div>
-
